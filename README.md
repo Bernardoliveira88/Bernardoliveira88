@@ -19,7 +19,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/bernardoliveira88/"><img src="https://img.shields.io/badge/LINKEDIN-Bernardo%20Oliveira-E4002B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0B" alt="LinkedIn"></a>
-<a href="https://instagram.com/berna_spikey"><img src="https://img.shields.io/badge/INSTAGRAM-@berna__spikey-F5C518?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0B0B0B" alt="Instagram"></a>
+<a href="https://instagram.com/berna_spikey"><img src="https://img.shields.io/badge/INSTAGRAM-@spikey__tech-F5C518?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0B0B0B" alt="Instagram"></a>
 <a href="https://github.com/Bernardoliveira88"><img src="https://img.shields.io/badge/GITHUB-Bernardoliveira88-1B9AAA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B" alt="GitHub"></a>
 
 </div>
