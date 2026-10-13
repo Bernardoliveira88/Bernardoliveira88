@@ -12,9 +12,9 @@
 
 **Computer Engineering Student**
 <br>
-<sub>FULL STACK · CYBERSECURITY · EMBEDDED SYSTEMS</sub>
+<sub>FULL STACK · CYBERSECURITY · EMBEEDED SYSTEMS</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3500&pause=1200&color=F5C518&center=true&vCenter=true&width=560&lines=Full+Stack+Development;Heading+into+Cybersecurity;Software+%C3%97+Hardware;See+you+space+cowboy..." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3500&pause=1200&color=F5C518&center=true&vCenter=true&width=560&lines=Full+Stack+Development;Cybersecurity;Software+%C3%97+Hardware;See+you+tech+cowboy..." alt="Typing SVG">
 
 <br>
 
@@ -119,7 +119,7 @@ Understanding how systems are built is the first step to protecting them. That i
 ## ◢ 09 — CONTACT
 
 - 💼 [LinkedIn — Bernardo Oliveira](https://www.linkedin.com/in/bernardoliveira88/)
-- 📸 [Professional Instagram — @berna_spikey](https://instagram.com/berna_spikey)
+- 📸 [Professional Instagram — @spikey_tech](https://instagram.com/spikey_tech)
 
 <br>
 
